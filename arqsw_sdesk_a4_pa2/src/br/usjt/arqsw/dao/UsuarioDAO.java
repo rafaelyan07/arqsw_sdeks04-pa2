@@ -9,10 +9,7 @@ import org.springframework.stereotype.Repository;
 
 import br.usjt.arqsw.entity.Usuario;
 
-/**
- * 
- *  @author Giovanna Selihevic 81613657 SIN3AN-MCA1
- */
+
 @Repository
 public class UsuarioDAO {
 	@PersistenceContext

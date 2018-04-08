@@ -21,10 +21,7 @@ import br.usjt.arqsw.entity.Chamado;
 import br.usjt.arqsw.service.ChamadoService;
 import br.usjt.arqsw.service.FilaService;
 
-/**
- * 
- *  @author Giovanna Selihevic 81613657 SIN3AN-MCA1
- */
+
 @RestController
 public class ManterChamadosRestController {
 	private ChamadoService cService;

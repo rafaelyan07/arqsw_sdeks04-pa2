@@ -8,10 +8,7 @@ import org.springframework.stereotype.Service;
 
 import br.usjt.arqsw.dao.FilaDAO;
 import br.usjt.arqsw.entity.Fila;
-/**
- * 
- *  @author Giovanna Selihevic 81613657 SIN3AN-MCA1
- */
+
 @Service
 public class FilaService {
 	private FilaDAO dao;

@@ -4,10 +4,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.web.servlet.handler.HandlerInterceptorAdapter;
-/**
- * 
- *  @author Giovanna Selihevic 81613657 SIN3AN-MCA1
- */
+
 public class AutorizadorInterceptor extends HandlerInterceptorAdapter {
 	@Override
 	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object controller)

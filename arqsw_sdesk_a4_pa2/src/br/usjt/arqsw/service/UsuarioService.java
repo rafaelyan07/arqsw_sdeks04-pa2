@@ -7,10 +7,6 @@ import org.springframework.stereotype.Service;
 
 import br.usjt.arqsw.dao.UsuarioDAO;
 import br.usjt.arqsw.entity.Usuario;
-/**
- * 
- *  @author Giovanna Selihevic 81613657 SIN3AN-MCA1
- */
 
 @Service
 public class UsuarioService {

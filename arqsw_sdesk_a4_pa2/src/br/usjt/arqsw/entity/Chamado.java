@@ -14,10 +14,7 @@ import javax.validation.constraints.NotNull;
 import javax.validation.constraints.Size;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
-/**
- * 
- *  @author Giovanna Selihevic 81613657 SIN3AN-MCA1
- */
+
 
 @Entity
 @Table

@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import br.usjt.arqsw.entity.Usuario;
 import br.usjt.arqsw.service.UsuarioService;
 
-/**
- * 
- *  @author Giovanna Selihevic 81613657 SIN3AN-MCA1
- */
+
 @Controller
 public class ManterUsuarioController {
 	private UsuarioService usuarioService;
